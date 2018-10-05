@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Wizard
+comment1.params=n
+comment1.target=Wizard(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getWizardName()
+comment3.params=n
+comment3.target=void\ setWizardName(java.lang.String)
+comment4.params=
+comment4.target=double\ getHealth()
+comment5.params=damagePts
+comment5.target=void\ changeHealth(double)
+comment6.params=
+comment6.target=java.util.ArrayList\ getBookOfSpells()
+comment7.params=newSpell
+comment7.target=void\ addSpell(Spell)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
